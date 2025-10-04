@@ -1,3 +1,7 @@
+4-Oct
+Sebastian is sick, didnt come for lesson
+so wait one more week for Thursday
+
 28-Sep
 must use this to get p5.sound
 for loadSound()
